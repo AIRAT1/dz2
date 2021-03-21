@@ -12,5 +12,6 @@ import lombok.NoArgsConstructor;
 public class Company {
     private int id;
     private String name;
+    private String email;
     private Employee employee;
 }
